@@ -1,4 +1,5 @@
 🚀 **Crypto Price Prediction Project: Unveiling Market Trends and Future Predictions!** 📈💹
+ 
  ![image](https://github.com/user-attachments/assets/b0fbaced-46b8-45ff-9d18-756ba5e46342)
 
 
