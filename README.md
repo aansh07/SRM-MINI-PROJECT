@@ -1,6 +1,5 @@
 🚀 **Crypto Price Prediction Project: Unveiling Market Trends and Future Predictions!** 📈💹
 
-![Uploading image.png…]()
 
 
 I've recently completed an in-depth project on **Cryptocurrency Price Prediction** using Machine Learning, where I analyzed critical market patterns and forecasted future prices. Here’s a summary of my journey and insights:
