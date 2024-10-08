@@ -15,8 +15,7 @@ I've recently completed an in-depth project on **Cryptocurrency Price Prediction
 ### **Technical Stack**:
 - 📁 **Tools & Libraries**: Pandas, Scikit-Learn, Matplotlib, Seaborn, and Jupyter Notebook for an organized, step-by-step analysis.
 - 📈 **Performance Evaluation**: Assessed model performance using metrics like MAE, MSE, and RMSE to fine-tune prediction accuracy.
-
-🔗 **GitHub Repository**: [Link to Your GitHub Repo]  
+  
 💼 **Feel free to connect!** Looking forward to feedback, collaboration, and more insights from the community.
 
 #CryptoPrediction #MachineLearning #RandomForest #DataScience #TimeSeries #LinkedIn
