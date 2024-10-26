@@ -10,7 +10,7 @@ I've recently completed an in-depth project on **Cryptocurrency Price Prediction
 ### **Key Highlights:**
 - 🔍 **Univariate & Bivariate Analysis**: Leveraged data analysis techniques to explore patterns in Volume, Market Cap, and Price Variation, uncovering significant market trends.
 - 📊 **Data Transformation**: Converted complex datetime formats into Year, Month, Day, and more to enrich feature engineering and improve model interpretability.
-- 🤖 **Model Selection - Random Forest Regressor**: Chose Random Forest due to its robustness in handling non-linear relationships, using Volume, Market Cap, and other features as inputs to predict closing prices accurately.
+- 🤖 **Model Selection - XBOOST ALGO **: Choose XBOOST  due to its robustness in handling non-linear relationships, using Volume, Market Cap, and other features as inputs to predict closing prices accurately.
 - 📅 **Real-World Application**: This model provides valuable insights into daily price fluctuations and trading volume dynamics, catering to the highly volatile crypto market.
 
 ### **Technical Stack**:
